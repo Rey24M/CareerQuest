@@ -2,5 +2,11 @@ div.bg{
   background-color: #000000;
 }
 h1 {
-  color: #ffffff; text-align: center; font: 80px Montserrat, sans-serif; 
+  color: #ffffff; text-align: left; font: 80px Montserrat, sans-serif; 
+}
+h2 {
+  color: #ffffff; text-align: left; font: 70px Montserrat, sans-serif; 
+}
+h3{
+  color: ##B8FB59; text-align: left; font: 70px Montserrat, sans-serif;
 }
